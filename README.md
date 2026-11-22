@@ -1,6 +1,4 @@
 Kia ora, I'm Charity Rutene
-Iwi Data Specialist | Data Analysis | Reporting & Insights
-
 I am an Iwi Data Specialist at Te Runanga o Turanganui a Kiwa based in Tairāwhiti, Aotearoa New Zealand.
 
 My work focuses on using data, reporting and insights to support positive outcomes for whānau, hapū and iwi.
