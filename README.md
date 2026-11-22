@@ -14,7 +14,7 @@ I am an Iwi Data Specialist at Te Runanga o Turanganui a Kiwa based in Tairāwhi
 - Māori Data Sovereignty
 
 ### Current Focus
-Supporting reporting, monitoring and continuous improvement initiatives across the Taiora Iwi Led Hub Team.
+Supporting reporting, monitoring and continuous improvement across the Taiora Iwi Led Hub Team.
 
 ## Education & Training
 - Mission Ready Level 5 Data Analyst Programme
